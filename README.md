@@ -1,5 +1,7 @@
 # E-commerce Back End [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](opensource.org/license/MIT)
-[Application walkthrough](./ecommerce-backend.mov)
+
+https://github.com/dianamariedischer/ecommerce-backend/assets/50310682/fa0704c7-dd75-4e80-883e-4dd4a6f1fa93
+
 ## Description
 This application functions as the back end for an e-commerce site, by utilizing Express and Sequelize to interact with a MySQL database.
 
